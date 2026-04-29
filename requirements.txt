@@ -1,0 +1,5 @@
+# Password Checker hanya pakai Python standard library!
+# Tidak ada dependency eksternal yang diperlukan.
+# 
+# Untuk development & testing:
+pytest==7.4.0
